@@ -41,4 +41,3 @@ O layout segue uma estética clean e premium, característica da marca Jordan:
 
 ---
 
-Desenvolvido por [Seu Nome]
