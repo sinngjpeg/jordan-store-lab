@@ -1,6 +1,6 @@
 # 👟 JordanShoes
 
-Uma landing page de e-commerce de alta performance visual, focada na linha de sneakers **Air Jordan**. O projeto foi desenvolvido para consolidar conceitos avançados de estilização CSS e estruturação semântica.
+O projeto foi desenvolvido para consolidar conceitos avançados de estilização CSS e estruturação semântica.
 
 ## 🚀 Tecnologias Utilizadas
 
